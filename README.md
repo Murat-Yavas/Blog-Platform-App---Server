@@ -1,4 +1,4 @@
-Blog Platform App created with Spring Boot and PostgreSQL
+Blog Platform App created with Spring Boot and PostgreSQL.
 To see client side codes [click here.](https://github.com/Murat-Yavas/Blog-Platform-App-Client)
 
 ### Technologies
